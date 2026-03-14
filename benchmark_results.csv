@@ -1,0 +1,8 @@
+Query,Normalized OLTP (PG),Wide Table (PG),DuckDB (Parquet)
+0. The Total Count,79.1638,66.9069,0.2179
+1. The Big Scan,3.2271,2.0617,0.7715
+2. The Bigger Run Chart,1.4684,0.9056,0.7251
+3. The Heat Map,1.3452,1.1004,0.6105
+4. The Percentile Crunch,65.9305,40.5324,7.8573
+5. The Data Detective,27.537,198.1146,1.2621
+6. The Needle,0.0012,0.0024,0.042
